@@ -10,14 +10,12 @@
 //*
 
 // Crear un arreglo con los días de la semana
-lunes
-martes
-miércoles
-jueves
-viernes
-sábado
-domingo
-
+ const dias = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',]
+const days  = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',]
+let day     = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',]
+let da      = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',]
+let d       = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',]
+const f     = ['lunes','martes','miércoles','jueves','viernes','sábado','domingo',]
 
 
 

@@ -9,9 +9,15 @@ class Temporal {
     }
 }
 
+class Temporal {
 
+    constructor(parameters) {
+        
+    }
+}
 class OtraClase {
     constructor(parameters) {
         
     }
 }
+    

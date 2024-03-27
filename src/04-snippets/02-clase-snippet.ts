@@ -1,5 +1,13 @@
 
 
+class Andrea {
+   constructor() {
+      console.log('Andrea initialized');
+   }
+   showAndrea() {
+      return this;
+   }
+} 
 
 
 
